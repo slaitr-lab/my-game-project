@@ -19,7 +19,7 @@
 ```
 
 3. Клонируйте репозиторий:
-   git clone git@github.com:slaitr-lab/my-game-project.git
+   git clone [git@github.com:slaitr-lab/my-game-project.git](https://github.com/slaitr-lab/my-game-project.git)
 4. Перейдите в папкку проекта:
    cd Alien_Invasion
 5. Запустите игру
